@@ -1,6 +1,5 @@
 # 👋 Hi, I'm 微风徐徐
 
-<img align="right" src="https://github.com/ljinw.png" width="200" height="200" style="border-radius: 50%;" />
 
 > 🚀 IT 运维工程师 → SRE / AI 运维工程师 | 用代码自动化一切
 
